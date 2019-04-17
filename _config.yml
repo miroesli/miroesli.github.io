@@ -31,18 +31,18 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: mroesli
   # instagram: your_username
   # keybase: your_username
   linkedin: michail-roesli
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 11375946
   # telegram: your_username
   twitter: MichailRoesli
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: mroesli.github.io
+  youtube: misha.roesli
 
 topics:
   - name: Python
