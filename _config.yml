@@ -31,7 +31,6 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  hackerrank: mroesli
   # instagram: your_username
   # keybase: your_username
   linkedin: michail-roesli
@@ -41,9 +40,10 @@ social_media:
   twitter: MichailRoesli
   # unsplash: your_username
   # vk: your_username
+  hackerrank: mroesli
+  # youtube: Michail258
   website: mroesli.github.io
-  youtube: misha.roesli
-
+  
 topics:
   - name: Python
     web_url: https://github.com/topics/python
