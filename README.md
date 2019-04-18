@@ -1,7 +1,5 @@
 # Personal Website
 
-### Showcase your software development skills
-
 This website is for showcasing my work as a software developer using the helpful template provided by [github](https://github.com/github/personal-website). 
 
 # Configuration
