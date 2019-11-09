@@ -32,26 +32,30 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # instagram: your_username
-  # keybase: your_username
-  linkedin: michail-roesli
+  keybase: miroesli
+  linkedin: miroesli
   # medium: your_username
   stackoverflow: 11375946
   # telegram: your_username
-  twitter: MichailRoesli
+  twitter: miroesli
   # unsplash: your_username
   # vk: your_username
-  hackerrank: mroesli
+  hackerrank: miroesli
   # youtube: Michail258
   website: mroesli.github.io
   
 topics:
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-    
+  - name: Typescript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
+ 
   - name: Javascript
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+  
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
     
   - name: CSS
     web_url: https://github.com/topics/css
@@ -61,12 +65,13 @@ topics:
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
     
-  - name: TensorFlow
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
-    
   - name: Nodejs
     web_url: https://github.com/topics/nodejs
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+    
+# - name: Python
+#   web_url: https://github.com/topics/python
+#   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
     
     
