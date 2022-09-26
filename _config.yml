@@ -49,10 +49,18 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
     
-  - name: Julia
-    web_url: https://github.com/topics/julia
-    image_url: https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png
+  - name: C Sharp
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
 
+  - name: Typescript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
+    
   - name: Rust
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
@@ -60,14 +68,14 @@ topics:
   - name: Go
     web_url: https://github.com/topics/golang
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png
-
-  - name: Typescript
-    web_url: https://github.com/topics/typescript
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
     
-  - name: Nodejs
-    web_url: https://github.com/topics/nodejs
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+#   - name: Nodejs
+#     web_url: https://github.com/topics/nodejs
+#     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+  
+#   - name: Julia
+#     web_url: https://github.com/topics/julia
+#     image_url: https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png
   
 #   - name: Javascript
 #     web_url: https://github.com/topics/javascript
